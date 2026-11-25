@@ -104,3 +104,8 @@ recording always ask you first.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+
+## This fork: IT department on local Ollama
+
+A private fork for an IT department (Manager, IT Policy, IT Security Analyst, Developer) running on local models instead of a Claude account. See [docs/ollama-dgx-spark.md](docs/ollama-dgx-spark.md). Start with `./start-it-office.sh`.

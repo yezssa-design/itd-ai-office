@@ -1,0 +1,11 @@
+{
+  "company": "IT Department",
+  "folder": "./it-office",
+  "pa": "Iris",
+  "invois": false,
+  "staff": [
+    { "name": "Zara", "role": "IT Policy" },
+    { "name": "Hakim", "role": "IT Security Analyst" },
+    { "name": "Ravi", "role": "Developer" }
+  ]
+}
